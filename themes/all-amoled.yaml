@@ -53,7 +53,7 @@ all-amoled:
   sidebar-icon-color: "var(--secondary-text-color)"
   sidebar-selected-icon-color: "var(--primary-text-color)"
   sidebar-selected-text-color: "var(--primary-text-color)"
-  sidebar-text-color: "#F1F1F1"
+  sidebar-text-color: "var(--secondary-text-color)"
   switch-unchecked-button-color: "#333333"
   switch-unchecked-track-color: "#333333"
   table-row-alternative-background-color: "#222429"
