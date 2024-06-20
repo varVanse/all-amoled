@@ -4,7 +4,7 @@
 # Amoled Theme
 #
 all-amoled:
-  accent-color: "#000000"
+  accent-color: "#FFFFFF"
   card-background-color: "var(--paper-card-background-color)"
   dark-primary-color: "var(--accent-color)"
   disabled-text-color: "#7F848E"
