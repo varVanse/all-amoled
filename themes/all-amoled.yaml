@@ -46,7 +46,7 @@ all-amoled:
   paper-toggle-button-unchecked-button-color: "var(--disabled-text-color)"
   paper-toggle-button-unchecked-ink-color: "var(--disabled-text-color)"
   primary-background-color: "#000000"
-  primary-color: "#000000"
+  primary-color: "#FFFFFF"
   primary-text-color: "#FFFFFF"
   secondary-background-color: "#383C45"
   secondary-text-color: "#AAAAAA"
@@ -59,4 +59,3 @@ all-amoled:
   table-row-alternative-background-color: "#222429"
   table-row-background-color: "#000000"
   text-primary-color: "var(--primary-text-color)"
-  mdc-theme-secondary: "#FF00FF"
