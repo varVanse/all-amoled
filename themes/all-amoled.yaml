@@ -63,4 +63,5 @@ all-amoled:
   app-header-text-color: "var(--primary-text-color)"
   mdc-theme-secondary: "#FFFFFF"
   mdc-theme-on-secondary: "#000000"
-  mdc-theme-on-primary: "var(--primary-text-color)"
+  mdc-theme-primary: "#000000"
+  mdc-theme-on-primary: "#FFFFFF"
