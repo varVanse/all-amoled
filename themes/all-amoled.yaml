@@ -59,3 +59,4 @@ all-amoled:
   table-row-alternative-background-color: "#222429"
   table-row-background-color: "#000000"
   text-primary-color: "var(--primary-text-color)"
+  mdc-theme-secondary: "#f0f"
