@@ -59,4 +59,5 @@ all-amoled:
   table-row-alternative-background-color: "#222429"
   table-row-background-color: "#000000"
   text-primary-color: "var(--primary-text-color)"
-  app-header-background-color: "#FF00FF"
+  app-header-background-color: "var(--primary-background-color)"
+  app-header-text-color: "var(--primary-text-color)"
